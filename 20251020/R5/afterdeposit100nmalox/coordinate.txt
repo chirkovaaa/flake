@@ -1,0 +1,18 @@
+both are in top right quadrant formed by the tapes (x mark at bottom right) 
+
+f1
+thixkness: 13 nm
+distance to LHS tape: 1691 micron (x direction)
+distance to bottom tape: 1943 micron (y direction)
+distance from center:
+2454.15 (x), 3735.79 (y)
+
+
+
+f2
+thickness: 11 nm
+distance to LHS tape: 528 micron (x direction)
+distance to bottom tape: 2256 micron (y direction)
+distance from center: 
+1233.25 (x), 4050.52 (y)
+
